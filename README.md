@@ -1,29 +1,8 @@
-
-👋 Hello developer!
-This is one of the many templates available from W3schools. Check our tutorials for frontend development to learn the basics of HTML and CSS. 🦄
-
-🏗 What's next?
-Customize this template to make it your own. Remember to make your layout responsive - if you want your site to look good on smaller screens like mobile.
-
-🎨 Where to find everything
-External style sheet: The template you chose is built with W3CSS, placed in an external style sheet. You can either replace that style sheet - or keep it simple and leave it in.
-Go to tutorial about W3CSS
-
-Fonts: Explore the options from Google fonts and add your favorite.
-Go to tutorial about fonts
-
-Icons: Icons are from Fontawesome. You can reuse those and choose other free icons from their free library.
-Go to tutorial about Fontawesome
-
-Images: Replace the images by uploading your own and updating their URLs.
-Go to article about how to upload files
-
-⚡️ Tip: Set up Google Analytics to get valuable insights about your space and visitors.
-
-⛑ Need support?
-Join our Discord community and ask questions in the #spaces-general channel.
-
-🚀 Upgrade to Pro
-Upgrade your account to boost your space and take your projects to the next level; more requests, more storage and more power for up to 10 spaces.
-
-Happy learning!
+<img width="626" height="352" alt="bg_tisu" src="https://github.com/user-attachments/assets/b397dfb6-094f-458f-837a-a934c2dee9a3" />![bg_tisu](!Uploading bg_tisu.jpg…)
+<img width="736" height="736" alt="livi" src="https://github.com/user-attachments/assets/9d29fe05-601d-4e43-84e5-06e864b2b190" />
+<img width="736" height="736" alt="icon" src="https://github.com/user-attachments/assets/35de4d1c-4f97-481e-894f-cc8e094d1751" />
+<img width="736" height="736" alt="piring" src="https://github.com/user-attachments/assets/cd8b411f-fd16-4ca4-9793-26cc3c223f59" />
+<img width="736" height="736" alt="tangan" src="https://github.com/user-attachments/assets/4c722837-1051-437d-be2b-283a4990f0d5" />
+<img width="736" height="736" alt="tngn" src="https://github.com/user-attachments/assets/352df3f8-1fed-4718-bebb-af501d55365b" />
+<img width="465" height="465" alt="toilet" src="https://github.com/user-attachments/assets/a2b7ef14-9567-4392-b061-ddaf97c98548" />
+<img width="500" height="500" alt="wajah" src="https://github.com/user-attachments/assets/8daba734-7afb-4a6a-9174-295a664242f5" />
