@@ -8,7 +8,7 @@ html {
 }
 .hero-section{
     margin-top: 46px !important;
-    background-image: url("asset/bg_tisu.jpg");
+    background-image: url("asset/asset/bg_tisu.jpg");
     background-repeat: no-repeat;
     box-sizing: border-box;
 }
@@ -170,7 +170,7 @@ html {
 
 @media screen and (max-width: 1024px) {
     .hero-section{
-        background-image: url("asset/bg_tisu.jpg");
+        background-image: url("asset/asset/bg_tisu.jpg");
         background-repeat: no-repeat;
     }
     .products{
@@ -207,7 +207,7 @@ html {
         height: 600px;
     }
    .hero-section{
-    background-image: url("asset/bg_tisu.jpg");
+    background-image: url("asset/asset/bg_tisu.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin: auto;
@@ -248,7 +248,7 @@ html {
     
     .hero-section{
         margin-top: 50px;
-        background-image: url("asset/bg_tisu.jpg");
+        background-image: url("asset/asset/bg_tisu.jpg");
         background-repeat: no-repeat;
     }
     .hero-section-main{
@@ -342,7 +342,7 @@ html {
     }
     .hero-section{
         margin-top: 50px;
-        background-image: url("asset/bg_tisu.jpg") !important;
+        background-image: url("asset/asset/bg_tisu.jpg") !important;
         background-repeat: no-repeat;
         overflow-x: hidden;
         overflow-y: scroll;    
