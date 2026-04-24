@@ -1,4 +1,4 @@
-<img width="626" height="352" alt="bg_tisu" src="https://github.com/user-attachments/assets/b397dfb6-094f-458f-837a-a934c2dee9a3" />![bg_tisu](!Uploading bg_tisu.jpg…)
+<img width="626" height="352" alt="bg_tisu" src="https://github.com/user-attachments/assets/b397dfb6-094f-458f-837a-a934c2dee9a3" />
 <img width="736" height="736" alt="livi" src="https://github.com/user-attachments/assets/9d29fe05-601d-4e43-84e5-06e864b2b190" />
 <img width="736" height="736" alt="icon" src="https://github.com/user-attachments/assets/35de4d1c-4f97-481e-894f-cc8e094d1751" />
 <img width="736" height="736" alt="piring" src="https://github.com/user-attachments/assets/cd8b411f-fd16-4ca4-9793-26cc3c223f59" />
